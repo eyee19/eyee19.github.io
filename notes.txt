@@ -1,0 +1,4 @@
+Pushing changes to website:
+1) git add <file name>
+2) git commit -m "describe commit message"
+3) git push -u origin master
