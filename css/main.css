@@ -378,7 +378,7 @@ header.dark nav ul li a:hover{
 
 /*    blog posts    */
 .blog_posts{
-    /*margin-top: 100px;*/
+    margin-top: 100px;
     padding: 100px 0;
     background: #fafafa;
 }
