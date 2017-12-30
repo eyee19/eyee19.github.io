@@ -248,11 +248,11 @@ header.light nav ul li a:hover{
 }
 
 header.dark nav ul li a{  
-    color: #5d5d5d;
+    color: #fff;
 }
 
 header.dark nav ul li a:hover{
-    color: #919191;
+    color: #B9B9B9;
 }
 
 
