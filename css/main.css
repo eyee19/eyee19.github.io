@@ -309,8 +309,8 @@ header.dark nav ul li a:hover{
 
 /*    projects    */
 .projects{
-    margin-top: 100px;
-    padding: 100px 0;
+    /*margin-top: 100px;*/
+    padding: 50px 0;
     background: #fafafa;
 }
 
@@ -378,7 +378,6 @@ header.dark nav ul li a:hover{
 
 /*    blog posts    */
 .blog_posts{
-    margin-top: 100px;
     padding: 100px 0;
     background: #fafafa;
 }
