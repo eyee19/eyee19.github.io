@@ -150,7 +150,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.dark{
-    color: #5d5d5d;
+    color: #fff;
 }
 
 .billboard .caption h1{
@@ -165,7 +165,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.dark h1{
-    color: #5d5d5d;
+    color: #fff;
 }
 
 .billboard .caption p{
@@ -179,7 +179,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.dark p{
-    color: #5d5d5d;
+    color: #fff;
 }
 
 .billboard .caption hr{
@@ -196,7 +196,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.dark hr{
-    background: #5d5d5d;
+    background: #fff;
 }
 
 
