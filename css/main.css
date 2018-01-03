@@ -473,23 +473,6 @@ header.dark nav ul li a:hover{
     text-align: center;
 }
 
-.resume ul li .media .date span{
-    display: block;
-}
-
-.resume ul li .media .date .day{
-    color: #fff;
-    font-family: "raleway-bold";
-    font-size: 18px;
-    font-weight: bold;
-
-}
-
-.resume ul li .media .date .month{
-    color: #fff;
-    font-family: "raleway-regular";
-    font-size: 12px;
-}
 
 .resume ul li .media{
     width: 230px;
