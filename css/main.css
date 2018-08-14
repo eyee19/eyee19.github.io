@@ -3,11 +3,11 @@
 	Template Author : pixelhint.com
 	Author Email    : contact@pixelhint.com
 	Template Name   : Sublime
-	
-	
+
+
 	*****************************************
-	
-	
+
+
     - fonts
     - general css
     - billboard
@@ -17,7 +17,7 @@
     - testimonials
     - blog posts
 	- footer
-	
+
 */
 
 
@@ -87,17 +87,17 @@ h6              { font-size: .75em; margin: 1.67em 0 }
 h1, h2, h3, h4,
 h5, h6          { font-weight: bolder }
 
-.clearfix:before,  
-.clearfix:after {  
-    content: " ";  
-    display: table;  
-}  
-.clearfix:after {  
-    clear: both;  
-}  
- 
-.clearfix {  
-    *zoom: 1;  
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
 }
 
 
@@ -114,8 +114,8 @@ h5, h6          { font-weight: bolder }
 }
 
 /*.billboard.light{
-    background: url('../img/billboard.jpg') no-repeat;   
-     
+    background: url('../img/billboard.jpg') no-repeat;
+
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -124,7 +124,7 @@ h5, h6          { font-weight: bolder }
 
 .billboard.dark{
     background: url('../img/billboard2.jpg') no-repeat;
-    
+
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -158,7 +158,7 @@ h5, h6          { font-weight: bolder }
 .billboard .caption h1{
     font-family: "raleway-bold";
     font-size: 50px;
-    font-weight: bold; 
+    font-weight: bold;
     margin-bottom: 30px;
 }
 
@@ -188,7 +188,7 @@ h5, h6          { font-weight: bolder }
     display: inline-block;
     height: 1px;
     width: 30px;
-    border: 0!important;   
+    border: 0!important;
     margin: 0;
     padding: 0;
 }
@@ -231,7 +231,7 @@ header nav ul li{
 }
 
 header nav ul li a{
-    text-decoration: none;  
+    text-decoration: none;
     font-family: "raleway-regular";
     font-size: 14px;
 
@@ -241,7 +241,7 @@ header nav ul li a{
     -o-transition:all .2s linear;
 }
 
-header.light nav ul li a{  
+header.light nav ul li a{
     color: #fff;
 }
 
@@ -249,7 +249,7 @@ header.light nav ul li a:hover{
     color: #B9B9B9;
 }
 
-header.dark nav ul li a{  
+header.dark nav ul li a{
     color: #fff;
 }
 
@@ -301,7 +301,7 @@ header.dark nav ul li a:hover{
    color: #838181;
     font-family: "raleway-regular";
     font-size: 14px;
-    line-height: 28px; 
+    line-height: 28px;
     margin-top: 40px;
     letter-spacing: .5px;
 }
@@ -441,6 +441,71 @@ header.dark nav ul li a:hover{
     margin: 20px 0 0 0;
 }
 
+/*    tableau    */
+.tableau{
+    padding: 50px 0;
+    background: #fafafa;
+}
+
+.tableau ul{
+    list-style: none;
+    margin-top: 70px;
+}
+
+.tableau ul li{
+    display: block;
+    width: 230px;
+    margin-left: 60px;
+    float: left;
+}
+
+.tableau ul li:first-child{
+    margin-left: 0;
+}
+
+.tableau ul li .media .date{
+    position: absolute;
+    top: 0;
+    left: 30px;
+    width: 40px;
+    padding: 10px 0;
+    background: rgba(62, 62, 62, .7);
+    text-align: center;
+}
+
+.tableau ul li .media .date span{
+    display: block;
+}
+
+.tableau ul li .media .date .day{
+    color: #fff;
+    font-family: "raleway-bold";
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.tableau ul li .media .date .month{
+    color: #fff;
+    font-family: "raleway-regular";
+    font-size: 12px;
+}
+
+.tableau ul li .media{
+    width: 230px;
+    height: 230px;
+    position: relative;
+}
+
+.tableau ul li h1{
+    color: #616161;
+    font-family: "raleway-regular";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    margin: 20px 0 0 0;
+}
+
 /*    resume    */
 .resume{
     padding: 50px 0;
@@ -510,7 +575,7 @@ footer .rights p{
     color: #838181;
     font-family: "raleway-regular";
     font-size: 13px;
-    margin: 5px 0 0 40px; 
+    margin: 5px 0 0 40px;
 }
 
 footer .rights p a{
@@ -525,7 +590,7 @@ footer nav ul{
     float: right;
     overflow: hidden;
     list-style: none;
-    margin-top: 5px; 
+    margin-top: 5px;
 }
 
 footer nav ul li{
